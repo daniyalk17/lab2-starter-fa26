@@ -24,3 +24,4 @@ int main() {
    printf("Result: %d\n", contains(4, arr, 6));
    return 0;
 }
+
